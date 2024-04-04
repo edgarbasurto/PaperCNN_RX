@@ -1,0 +1,308 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: plantilla.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bib_plantilla.bib
+You're missing a field name---line 11 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Compensaci{\'{o}}n de los Efectos Generados en la Imagen por el Control de Navegaci{\'{o}}n del Robot Aibo ERS 7}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 45 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Compensaci{\'{o}}n y Aprendizaje de Efectos Generados en la Imagen durante el Desplazamiento de un Robot}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 77 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{3D Environment Mapping Using the Kinect V2 and Path Planning Based on RRT Algorithms}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 113 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Estabilizaci{\'{o}}n de v{\'{i}}deo en micro veh{\'{i}}culos a{\'{e}}reos y su aplicaci{\'{o}}n en la detecci{\'{o}}n de caras}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 137 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Vision-based intelligent vehicles: State of the art and perspectives}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 173 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Autonomous driving goes downtown}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 209 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Fast stereo based object detection for stop{\&}go traffic}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 239 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Vision-based pedestrian detection: the PROTECTOR system}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 271 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Are we ready for Autonomous Driving? The $\backslash$textsc{\{}KITTI{\}} Vision Benchmark Suite}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 297 of file bib_plantilla.bib
+ : 
+ : %  Title                    = {{Pedestrian detection for driving assistance systems: single-frame classification and system level performance}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 327 of file bib_plantilla.bib
+ : @book{1
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 343 of file bib_plantilla.bib
+ : @article{2
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 359 of file bib_plantilla.bib
+ : @book{3
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 373 of file bib_plantilla.bib
+ : @article{4
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 389 of file bib_plantilla.bib
+ : @book{5
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 403 of file bib_plantilla.bib
+ : @book{6
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 419 of file bib_plantilla.bib
+ : @article{7
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 439 of file bib_plantilla.bib
+ : @article{8
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 459 of file bib_plantilla.bib
+ : @article{9
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 479 of file bib_plantilla.bib
+ : @article{10
+ :            ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 629 of file bib_plantilla.bib
+ : 
+ : % author = "M. A. Morid and A. Borjali and G. Del Fiol",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 645 of file bib_plantilla.bib
+ : 
+ : % author = "H. Krizhevsky and A., Sutskever and I.",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 661 of file bib_plantilla.bib
+ : 
+ : % author = "Y. Hu and X. Zhang and J. Yang and S. Fu",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 679 of file bib_plantilla.bib
+ : 
+ : % author = "S. A. Suha and M. N. Islam",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 697 of file bib_plantilla.bib
+ : 
+ : % author = "S. S. Roy and A. Paramane and J. Singh and S. Chatterjee and A. K. Das",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 715 of file bib_plantilla.bib
+ : 
+ : % author = "P. P. Malla and S. Sahu and A. I. Alutaibi",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 733 of file bib_plantilla.bib
+ : 
+ : % author = "V. Zilvan and A. Ramdan and A. Heryana and D. Krisnandi and E. Suryawati and R. S. Yuwana and R. B. S. Kusumo and H. F. Pardede",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 751 of file bib_plantilla.bib
+ : 
+ : % author = "F. A. Torghabeh and Y. Modaresnia and M. M. Khalilzadeh",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 769 of file bib_plantilla.bib
+ : 
+ : % author = "M. Riaz and S. M. G. Monir and R. Hasan",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 787 of file bib_plantilla.bib
+ : 
+ : % author = "X. Zhou and T. Ito and R. Takayama and S. Wang and T. Hara and H. Fujita",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 805 of file bib_plantilla.bib
+ : 
+ : % author = "S. Prasher and L. Nelson",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 819 of file bib_plantilla.bib
+ : 
+ : % author = "J. Yao and J. Liu and Y. Zhang and H. Wang",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 837 of file bib_plantilla.bib
+ : 
+ : % author = "Z. Rui and C. Ying and W. Fangzhe and B. Xintong and T. T. Toe",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 851 of file bib_plantilla.bib
+ : 
+ : % author = "T. Banda and B. Y. W. Jie and A. A. Farid and C. S. Lim",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 867 of file bib_plantilla.bib
+ : 
+ : % author = "M. Sajjad and S. Khan and K. Muhammad and W. Wu and A. Ullah and S. W. Baik",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 883 of file bib_plantilla.bib
+ : 
+ : % author = "J. Mahadeokar and G. Pesavento",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 899 of file bib_plantilla.bib
+ : 
+ : % author = "A. N. A. Thohari and L. Triyono and I. Hestiningsih and B. Suyanto and A. Yobioktobera",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 917 of file bib_plantilla.bib
+ : 
+ : % author = "Y. Zhang and L. Zhang",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 935 of file bib_plantilla.bib
+ : 
+ : % author = "B.",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 951 of file bib_plantilla.bib
+ : 
+ : % author = "H. Ke and D. Chen and X. Li and Y. Tang and T. Shah and R. Ranjan",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 967 of file bib_plantilla.bib
+ : 
+ : % author = "H. Xu and T. Tang",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 985 of file bib_plantilla.bib
+ : 
+ : % author = "Purwono, A. Ma�arif and W. Rahmaniar and H. I. K. Fathurrahman and A. Z. K. Frisky and Q. M. U. Haq",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1003 of file bib_plantilla.bib
+ : 
+ : % author = "M. Yeung and E. Sala and C. B. Sch�nlieb and L. Rundo",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty author in 1
+Warning--empty title in 1
+Warning--empty journal in 1
+Warning--empty year in 1
+Warning--empty author in 2
+Warning--empty title in 2
+Warning--empty journal in 2
+Warning--empty year in 2
+Warning--empty author in 3
+Warning--empty title in 3
+Warning--empty journal in 3
+Warning--empty year in 3
+Warning--empty author in 4
+Warning--empty title in 4
+Warning--empty journal in 4
+Warning--empty year in 4
+Warning--empty author in 5
+Warning--empty title in 5
+Warning--empty journal in 5
+Warning--empty year in 5
+Warning--empty author in 6
+Warning--empty title in 6
+Warning--empty journal in 6
+Warning--empty year in 6
+Warning--empty author in 7
+Warning--empty title in 7
+Warning--empty journal in 7
+Warning--empty year in 7
+Warning--empty author in 8
+Warning--empty title in 8
+Warning--empty journal in 8
+Warning--empty year in 8
+Warning--empty author in 9
+Warning--empty title in 9
+Warning--empty journal in 9
+Warning--empty year in 9
+Warning--empty author in 10
+Warning--empty title in 10
+Warning--empty journal in 10
+Warning--empty year in 10
+Too many commas in name 1 of "Haq, Ejaz Ul; Jianjun, Huang; Li, Kang; Haq, Hafeez Ul; Zhang, Tijiang" for entry 17
+while executing---line 4837 of file IEEEtran.bst
+Too many commas in name 1 of "Haq, Ejaz Ul; Jianjun, Huang; Li, Kang; Haq, Hafeez Ul; Zhang, Tijiang" for entry 17
+while executing---line 4837 of file IEEEtran.bst
+Too many commas in name 1 of "Haq, Ejaz Ul; Jianjun, Huang; Li, Kang; Haq, Hafeez Ul; Zhang, Tijiang" for entry 17
+while executing---line 4837 of file IEEEtran.bst
+
+Done.
+You've used 17 entries,
+            4039 wiz_defined-function locations,
+            852 strings with 8777 characters,
+and the built_in function-call counts, 7422 in all, are:
+= -- 471
+> -- 167
+< -- 46
++ -- 94
+- -- 30
+* -- 407
+:= -- 1066
+add.period$ -- 14
+call.type$ -- 17
+change.case$ -- 5
+chr.to.int$ -- 96
+cite$ -- 57
+duplicate$ -- 629
+empty$ -- 671
+format.name$ -- 35
+if$ -- 1624
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 112
+newline$ -- 74
+num.names$ -- 7
+pop$ -- 353
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 560
+stack$ -- 0
+substring$ -- 237
+swap$ -- 381
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 17
+warning$ -- 40
+while$ -- 24
+width$ -- 19
+write$ -- 130
+(There were 46 error messages)
