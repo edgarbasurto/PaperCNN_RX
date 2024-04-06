@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.4)  4 APR 2024 23:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.4)  6 APR 2024 07:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,7 +1273,13 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
 61.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [3]
+)
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 2 might be wrong on input line 275.
+
+
+[2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [3]
 Underfull \hbox (badness 10000) in paragraph at lines 309--310
 
  []
@@ -1283,16 +1289,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
 
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 4 might be wrong on input line 334.
+
+
+[4]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
 37.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<figuras/fig1.png, id=129, 400.49625pt x 130.23656pt>
+<figuras/fig1.png, id=163, 400.49625pt x 130.23656pt>
 File: figuras/fig1.png Graphic file (type png)
 <use figuras/fig1.png>
 Package pdftex.def Info: figuras/fig1.png  used on input line 341.
@@ -1303,19 +1315,17 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 342.
 See the caption package documentation for explanation.
 
-[4]
-<figuras/fig2.png, id=140, 691.83469pt x 359.84438pt>
+<figuras/fig2.png, id=165, 691.83469pt x 359.84438pt>
 File: figuras/fig2.png Graphic file (type png)
 <use figuras/fig2.png>
 Package pdftex.def Info: figuras/fig2.png  used on input line 349.
 (pdftex.def)             Requested size: 207.552pt x 107.95413pt.
 
-
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 350.
 See the caption package documentation for explanation.
 
-<figuras/fig3.png, id=141, 816.04875pt x 235.63031pt>
+<figuras/fig3.png, id=166, 816.04875pt x 235.63031pt>
 File: figuras/fig3.png Graphic file (type png)
 <use figuras/fig3.png>
 Package pdftex.def Info: figuras/fig3.png  used on input line 360.
@@ -1325,7 +1335,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 361.
 See the caption package documentation for explanation.
 
-<figuras/fig4.png, id=142, 1296.34312pt x 146.79843pt>
+<figuras/fig4.png, id=167, 1296.34312pt x 146.79843pt>
 File: figuras/fig4.png Graphic file (type png)
 <use figuras/fig4.png>
 Package pdftex.def Info: figuras/fig4.png  used on input line 369.
@@ -1335,7 +1345,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 370.
 See the caption package documentation for explanation.
 
-<figuras/fig5.png, id=143, 877.77937pt x 251.43938pt>
+<figuras/fig5.png, id=168, 877.77937pt x 251.43938pt>
 File: figuras/fig5.png Graphic file (type png)
 <use figuras/fig5.png>
 Package pdftex.def Info: figuras/fig5.png  used on input line 376.
@@ -1345,7 +1355,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 377.
 See the caption package documentation for explanation.
 
-<figuras/fig6.png, id=144, 982.42032pt x 152.82094pt>
+<figuras/fig6.png, id=169, 982.42032pt x 152.82094pt>
 File: figuras/fig6.png Graphic file (type png)
 <use figuras/fig6.png>
 Package pdftex.def Info: figuras/fig6.png  used on input line 383.
@@ -1360,7 +1370,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 394--395
 []\T1/lmtt/m/n/10 EarlyStopping => (monitor='val_loss',
  []
 
-<figuras/fig7.png, id=145, 831.85782pt x 380.17032pt>
+<figuras/fig7.png, id=170, 831.85782pt x 380.17032pt>
 File: figuras/fig7.png Graphic file (type png)
 <use figuras/fig7.png>
 Package pdftex.def Info: figuras/fig7.png  used on input line 400.
@@ -1370,7 +1380,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 401.
 See the caption package documentation for explanation.
 
-<figuras/fig8.png, id=146, 472.01344pt x 945.5325pt>
+<figuras/fig8.png, id=171, 472.01344pt x 945.5325pt>
 File: figuras/fig8.png Graphic file (type png)
 <use figuras/fig8.png>
 Package pdftex.def Info: figuras/fig8.png  used on input line 408.
@@ -1382,7 +1392,7 @@ See the caption package documentation for explanation.
 
 [5 <./figuras/fig1.png> <./figuras/fig2.png> <./figuras/fig3.png> <./figuras/fi
 g4.png> <./figuras/fig5.png> <./figuras/fig6.png> <./figuras/fig7.png>]
-<figuras/fig9.png, id=166, 1047.915pt x 243.15843pt>
+<figuras/fig9.png, id=193, 1047.915pt x 243.15843pt>
 File: figuras/fig9.png Graphic file (type png)
 <use figuras/fig9.png>
 Package pdftex.def Info: figuras/fig9.png  used on input line 512.
@@ -1393,7 +1403,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 513.
 See the caption package documentation for explanation.
 
-<figuras/fig10.png, id=169, 401.24907pt x 217.5628pt>
+<figuras/fig10.png, id=196, 401.24907pt x 217.5628pt>
 File: figuras/fig10.png Graphic file (type png)
 <use figuras/fig10.png>
 Package pdftex.def Info: figuras/fig10.png  used on input line 522.
@@ -1403,7 +1413,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 523.
 See the caption package documentation for explanation.
 
-<figuras/fig11.png, id=172, 401.24907pt x 219.82124pt>
+<figuras/fig11.png, id=199, 401.24907pt x 219.82124pt>
 File: figuras/fig11.png Graphic file (type png)
 <use figuras/fig11.png>
 Package pdftex.def Info: figuras/fig11.png  used on input line 528.
@@ -1413,7 +1423,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 529.
 See the caption package documentation for explanation.
 
-<figuras/fig12.png, id=175, 401.24907pt x 219.82124pt>
+<figuras/fig12.png, id=202, 401.24907pt x 219.82124pt>
 File: figuras/fig12.png Graphic file (type png)
 <use figuras/fig12.png>
 Package pdftex.def Info: figuras/fig12.png  used on input line 539.
@@ -1459,12 +1469,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 564--565
 
  []
 
-
+[7 <./figuras/fig12.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 566--567
 
  []
 
-[7 <./figuras/fig12.png>]
+
 Underfull \hbox (badness 6493) in paragraph at lines 572--573
 []\T1/lmr/m/n/10 (+20) Sobreaprendizaje (Over-fit-ting): Aunque el
  []
@@ -1483,13 +1493,13 @@ Package rerunfilecheck Info: File `plantilla.out' has not changed.
 (rerunfilecheck)             Checksum: 92A3CC06EEAE68FD6D70A8F4D791E33E;2874.
  ) 
 Here is how much of TeX's memory you used:
- 30075 strings out of 474116
- 539950 string characters out of 5743683
- 1947187 words of memory out of 5000000
- 51396 multiletter control sequences out of 15000+600000
- 663948 words of font info for 227 fonts, out of 8000000 for 9000
+ 30127 strings out of 474116
+ 540544 string characters out of 5743683
+ 1948187 words of memory out of 5000000
+ 51404 multiletter control sequences out of 15000+600000
+ 678388 words of font info for 244 fonts, out of 8000000 for 9000
  1326 hyphenation exceptions out of 8191
- 90i,12n,93p,4113b,830s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,12n,93p,4113b,832s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texm
@@ -1497,14 +1507,16 @@ f-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2024/texmf-dist/fo
 nts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1
 /public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/
 lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/te
-xlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/t
-exmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/
-fonts/type1/public/lm/lmtt10.pfb>
-Output written on plantilla.pdf (9 pages, 1879962 bytes).
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/te
+xlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/t
+exmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fo
+nts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/
+public/lm/lmri8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/l
+mtt10.pfb>
+Output written on plantilla.pdf (9 pages, 1942364 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
- 57 named destinations out of 1000 (max. 500000)
- 56017 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 255 compressed objects within 3 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 64209 words of extra memory for PDF output out of 74296 (max. 10000000)
 
