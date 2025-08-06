@@ -15,6 +15,10 @@ ENV/
 # VSCode
 .vscode/
 
+# PyCharm
+.DS_Store
+.idea/
+
 # LaTeX build files
 *.aux
 *.bbl
